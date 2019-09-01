@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "server",
+      "type": "com.example.boot.config.ConfigProperty",
+      "sourceType": "com.example.boot.config.ConfigProperty"
+    }
+  ],
+  "properties": [
+    {
+      "name": "server.pay-order",
+      "type": "java.lang.String",
+      "sourceType": "com.example.boot.config.ConfigProperty"
+    },
+    {
+      "name": "server.port",
+      "type": "java.lang.String",
+      "sourceType": "com.example.boot.config.ConfigProperty"
+    },
+    {
+      "name": "server.url",
+      "type": "java.lang.String",
+      "sourceType": "com.example.boot.config.ConfigProperty"
+    }
+  ],
+  "hints": []
+}
