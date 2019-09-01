@@ -57,8 +57,7 @@ public class UserController {
 
 
 
-        List<User> user1 = userService.getUser();
-        return  user1;
+        return  null;
 
     }
 }
